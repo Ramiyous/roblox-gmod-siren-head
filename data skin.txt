@@ -5,27 +5,27 @@
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":false,
+      "show_cpa":true,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"yandex",
-      "inter_type":"yandex",
-      "native_type":"yandex",
-      "reward_type":"yandex",
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+      "reward_type":"admob",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-2104984-1",
-      "native_yandex":"R-M-2104984-2",
-      "interstitial_yandex":"R-M-2104984-3",
-      "rewarde_yandex":"R-M-2104984-4",
+      "banner_yandex":"R-M-2104987-1",
+      "native_yandex":"R-M-2104987-2",
+      "interstitial_yandex":"R-M-2104987-4",
+      "rewarde_yandex":"R-M-2104987-5",
 
       "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
@@ -47,8 +47,8 @@
     },
     "skins": [
     {
-      "imageUrl": "https://iili.io/Hq7uLxV.jpg",
-      "title": "garry-s-mod-roblox-cartoon-cat mod pack 1",
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -59,8 +59,8 @@
       
     },
     {
-      "imageUrl": "https://iili.io/Hq7uLxV.jpg",
-      "title": "garry-s-mod-roblox-cartoon-cat mod pack 2",
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -70,8 +70,8 @@
       
     },
     {
-      "imageUrl": "https://iili.io/Hq7uPOx.jpg",
-      "title": "garry-s-mod-roblox-cartoon-cat mod pack 3",
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -81,8 +81,8 @@
       
     }
     ,{
-      "imageUrl": "https://iili.io/Hq7uiDQ.jpg",
-      "title": "garry-s-mod-roblox-cartoon-cat mod pack 4",
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -93,8 +93,8 @@
       
     },
     {
-      "imageUrl": "https://iili.io/Hq7uDf1.jpg",
-      "title": "garry-s-mod-roblox-cartoon-cat mod pack 5",
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -102,8 +102,8 @@
        
     },
     {
-      "imageUrl": "https://iili.io/Hq7uPOx.jpg",
-      "title": "garry-s-mod-roblox-cartoon-cat mod pack 6",
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
@@ -111,8 +111,8 @@
      
     },
     {
-      "imageUrl": "https://iili.io/Hq7uLxV.jpg",
-      "title": "garry-s-mod-roblox-cartoon-cat mod pack 7",
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
